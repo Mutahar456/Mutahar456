@@ -42,16 +42,20 @@ I am a **Full Stack Developer & Software Engineer** with strong expertise in:
 ## 🔗 Connect With Me
 
 <p align="center">
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/mutahar-hashmi" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank">
+<a href="https://www.instagram.com/mutahir__hashmi__" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36"/>
+<a href="https://www.facebook.com/profile.php?id=61561089563343" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="36"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Mutahar456" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="36"/>
 </a>
 </p>
 
