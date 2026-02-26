@@ -1,57 +1,94 @@
 ![Banner](banner.png)
 
 <h1 align="center">Hi 👋, I'm Mutahar Hashmi</h1>
-<h3 align="center">Full Stack Developer | Software Engineer | Web Developer | AI Automations</h3>
+<h3 align="center">AI Automation Engineer | Full Stack Developer | SaaS Builder</h3>
 
 <p align="center">
-🚀 Building scalable software • 💻 Backend + Frontend • 🤖 AI Automations • ☁️ Cloud
+🚀 Building Smart Systems • 🤖 AI & Workflow Automation • 💻 Scalable Web Apps • ☁️ Cloud Architecture
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mutahar456&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Mutahar456&label=Profile%20Views&color=ff6b00&style=flat" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/Mutahar456?style=flat&color=yellow" />
+  <img src="https://img.shields.io/github/stars/Mutahar456?style=flat&color=orange" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Mutahar456?style=flat&color=blue" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am a **Full Stack Developer & Software Engineer** with strong expertise in:
+I’m an **AI Automation Engineer & Full Stack Developer** focused on building scalable systems that help businesses automate, optimize, and grow.
 
-- ✅ Backend systems & REST APIs  
-- ✅ Scalable frontend applications  
-- ✅ AI Automations & Workflow Integration  
-- ✅ Cloud, DevOps & databases  
+💡 My expertise lies in combining:
 
-💡 I focus on **real-world problem solving, automation, clean architecture, and scalable products**.
+- ⚙️ Backend Architecture & REST APIs  
+- 🌐 Modern Frontend Applications  
+- 🤖 AI Integrations & Workflow Automation  
+- ☁️ Cloud Deployment & DevOps  
 
----
-
-## 🧠 Currently Working On
-
-- 🚀 Full Stack SaaS Applications  
-- 🤖 AI Automation Systems (Chatbots, Workflows, Integrations)  
-- ☁️ AWS, System Design & Security  
-- 📊 Automation + Productivity Tools  
+I don’t just write code — I build **smart, scalable solutions that solve real-world problems.**
 
 ---
 
-## 🔗 Connect With Me
+## 🔥 What I’m Currently Building
+
+- 🤖 AI Automation Systems (LLM workflows, chatbots, integrations)
+- 🚀 SaaS Platforms (Full Stack Architecture)
+- ☁️ AWS Infrastructure & System Design
+- 📊 Productivity & Automation Tools for Businesses
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+Java • Python • JavaScript • PHP • C • C++
+
+### 🌐 Frontend
+React • Next.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap  
+
+### ⚙️ Backend
+Node.js • Express.js • Django • Spring Boot  
+
+### 🗄️ Databases
+MySQL • PostgreSQL • MongoDB • Redis  
+
+### 🤖 AI & Automation
+OpenAI APIs • LLM Integrations • Workflow Automation • Webhooks • n8n • Custom Automation Pipelines  
+
+### ☁️ Cloud & DevOps
+AWS • Docker • Linux • Git • Firebase  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mutahar456&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mutahar456&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mutahar456&theme=radical" />
+</p>
+
+---
+
+## 🎯 Career Focus
+
+Building intelligent systems where  
+**AI Automation + Scalable Software + Cloud Infrastructure**  
+come together to create real business impact.
+
+---
+
+## 🌍 Let’s Connect
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mutahar-hashmi" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/mutahir__hashmi__" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=61561089563343" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="36"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Mutahar456" target="_blank">
@@ -63,52 +100,4 @@ I am a **Full Stack Developer & Software Engineer** with strong expertise in:
 
 ---
 
-## 🛠️ Technical Skills
-
-### 🚀 Programming Languages
-Java • Python • JavaScript • PHP • C • C++
-
-### 🌐 Frontend Development
-HTML5 • CSS3 • React • Next.js • Tailwind CSS • Bootstrap  
-
-### ⚙️ Backend & Frameworks
-Node.js • Express.js • Django • Spring Boot  
-
-### 🗄️ Databases
-MySQL • PostgreSQL • MongoDB • Redis  
-
-### 🤖 AI & Automations
-OpenAI APIs • Workflow Automation • Chatbots • AI Integrations • Webhooks • Zapier Style Pipelines  
-
-### ☁️ Cloud & Tools
-AWS • Firebase • Linux • Git • Docker  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mutahar456&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mutahar456&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mutahar456&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mutahar456&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mutahar456&theme=default" />
-</p>
-
----
-
-## 🎯 Career Objective
-
-To work as a **Full Stack / Software Engineer** where I can combine  
-**AI Automation + Web Development + Cloud skills** to build impactful products.
-
----
-
-⭐ Star repositories you like  
-🤝 Open to Full-Time | Freelance | Collaboration
+⭐ Open to Full-Time | Freelance | AI Automation Projects | SaaS Collaboration
